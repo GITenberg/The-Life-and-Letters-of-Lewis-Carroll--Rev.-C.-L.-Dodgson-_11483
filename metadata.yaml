@@ -1,0 +1,32 @@
+_repo: The-Life-and-Letters-of-Lewis-Carroll--Rev.-C.-L.-Dodgson-_11483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collingwood, Stuart Dodgson
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '3994'
+    url: http://www.gutenberg.org/2009/agents/3994
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature -- Authorship'
+- !lcsh 'Mathematics teachers -- Great Britain -- Biography'
+- !lcsh 'Children -- Books and reading -- Great Britain -- History -- 19th century'
+- !lcsh 'Photographers -- Great Britain -- Biography'
+- !lcsh 'Carroll, Lewis, 1832-1898'
+- !lcc 'PR'
+- !lcsh 'Mathematicians -- Great Britain -- Biography'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Oxford (England) -- Biography'
+- !lcsh 'Children''s literature -- Authorship'
+- GITenberg
+title: The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)
+url: http://www.gutenberg.org/ebooks/11483
